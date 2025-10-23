@@ -1,0 +1,8 @@
+Comandos Git.
+ 
+A)    cmdkey /l
+B)    cmdkey /delete:git:https://github.com
+
+repositorio:
+
+git init//inicializa.repositorio
