@@ -1,4 +1,4 @@
-Comandos Git.
+Comandos Git. actualizado
  
 A)    cmdkey /l
 B)    cmdkey /delete:git:https://github.com
