@@ -1,0 +1,16 @@
+Comandos Git ARCHIVO MODIFICADO
+
+git status ( verifica la carpeta)
+git config user.name (verfica el usuario)
+git --version (verificar la version)
+cmdkey /delete (elimina datos)
+
+repositorio:
+git init ( inicia  el repositorio)
+git config --global user.name (se crea un usuario de repositorio)
+git add. (agrega los archivos y envia a el repositorio)
+git commit -M"Primera version" (Pasa el filtro)
+
+PARA CLONAR:
+git clone
+https://github.com/Emilyinem1007/practica_1007.gitlone
